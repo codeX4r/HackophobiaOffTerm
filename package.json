@@ -1,0 +1,13 @@
+{
+  "name": "offterm",
+  "version": "1.0.0",
+  "description": "Natural language to terminal command translator using open-weight AI.",
+  "main": "index.js",
+  "type": "commonjs",
+  "bin": {
+    "offterm": "./index.js"
+  },
+  "keywords": ["groq", "cli", "ai", "open-source", "terminal"],
+  "author": "Your Name",
+  "license": "MIT"
+}
